@@ -3,6 +3,7 @@
 This dataset was collected by [bloomwatcher](https://www.kaggle.com/bloomwatcher). He is  a crowdfunding enthusiast.
 
 Assignment 
+
 1 . To analyse and model success factors of kickstarter campaigns at [dataset](https://www.kaggle.com/datasets/kemical/kickstarter-projects).
 
 2. Give new projects an idea what is needed for a successful funding and potentially even predict campaign success upfront.Different 
