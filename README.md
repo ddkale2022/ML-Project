@@ -9,9 +9,17 @@ Assignment
 2. Give new projects an idea what is needed for a successful funding and potentially even predict campaign success upfront.Different 
 
 3. Predict which Kickstarter Project was successful?
+
+
+This repo contains 
+- [Data exploration and cleaning ](1_kickstarter_eda_dk)
+- [Logistic regression model- base model ](2_log_reg_kickstarter.ipynb)
+- [Random forest classification ](3_RF_model_kickstarter.ipynb)
+- [column names](column_names.md)
+
    
-1_kickstarter_eda_dk
-2_log_reg_kickstarter.ipynb
+
+
 
 ## Set up your Environment
 
