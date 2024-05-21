@@ -1,13 +1,15 @@
-[![Shipping files](https://github.com/neuefische/ds-ml-project-template/actions/workflows/workflow-02.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-ml-project-template/actions/workflows/workflow-02.yml)
-
 # ML Project: Kickstarter projects 
 
-This template repo will give you a good starting point for your second project. Besides the files used for creating a virtual environment, you will find a simple example of how to build a simple model in a python script. This is maybe the simplest way to do it. We train a simple model in the jupyter notebook, where we select only some features and do minimal cleaning. The output is then stored in simple python scripts.
+This dataset was collected by [bloomwatcher](https://www.kaggle.com/bloomwatcher). He is  a crowdfunding enthusiast.
 
+Assignment 
+1 . To analyse and model success factors of kickstarter campaigns at [dataset](https://www.kaggle.com/datasets/kemical/kickstarter-projects).
+
+2. Give new projects an idea what is needed for a successful funding and potentially even predict campaign success upfront.Different 
+
+3. Predict which Kickstarter Project was successful?
 
 ## Set up your Environment
-
-
 
 ### **`macOS`** type the following commands : 
 
