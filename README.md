@@ -1,6 +1,6 @@
 # ML Project: Kickstarter projects 
 
-This dataset was collected by [bloomwatcher](https://www.kaggle.com/bloomwatcher). He is  a crowdfunding enthusiast.
+This dataset was collected by a crowdfunding enthusiast.
 
 Assignment 
 
