@@ -1,4 +1,4 @@
-# ML Project: Kickstarter projects 
+# Machine learning project: Kickstarter campaigns
 
 This dataset was collected by a crowdfunding enthusiast.
 
