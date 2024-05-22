@@ -14,7 +14,7 @@ Assignment
 This repo contains 
 - [Data exploration and cleaning ](1_kickstarter_eda_dk.ipynb)
 - [Logistic regression model- base model ](2_log_reg_kickstarter.ipynb)
-- [Random forest classification ](3_RF_model_kickstarter.ipynb)
+- [Random forest classification ](3_RF_model_kickstarter_.ipynb)
 - [column names](column_names.md)
 
    
