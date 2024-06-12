@@ -6,9 +6,9 @@ Assignment
 
 1 . To analyse and model success factors of kickstarter campaigns at [dataset](https://www.kaggle.com/datasets/kemical/kickstarter-projects).
 
-2. Give new projects an idea what is needed for a successful funding and potentially even predict campaign success upfront.Different 
+2. Give new projects an idea what is needed for a successful funding and potentially even predict campaign success upfront.
 
-3. Predict which Kickstarter Project was successful?
+
 
 
 This repo contains 
