@@ -10,7 +10,7 @@ This dataset was collected by a crowdfunding enthusiast.Analyzing and modeling s
 2. Give new projects an idea what is needed for a successful funding and potentially even predict campaign success upfront.
 
 
-## This repo contains 
+### This repo codes related to data analysis  
 - [Data exploration and cleaning ](1_kickstarter_eda_dk.ipynb)
 - [Logistic regression model- base model ](2_log_reg_kickstarter.ipynb)
 - [Random forest classification ](3_RF_model_kickstarter_.ipynb)
