@@ -1,14 +1,13 @@
 # Machine learning project: Kickstarter campaigns
 
-This dataset was collected by a crowdfunding enthusiast.
+This dataset was collected by a crowdfunding enthusiast.Analyzing and modeling success factors in Kickstarter campaigns is crucial for providing insights to new project creators on what is necessary for achieving successful funding. Furthermore, it can potentially aid in predicting campaign success before launch.
 
-Assignment 
+
+Assignment is
 
 1 . To analyse and model success factors of kickstarter campaigns at [dataset](https://www.kaggle.com/datasets/kemical/kickstarter-projects).
 
 2. Give new projects an idea what is needed for a successful funding and potentially even predict campaign success upfront.
-
-
 
 
 This repo contains 
@@ -17,8 +16,14 @@ This repo contains
 - [Random forest classification ](3_RF_model_kickstarter_.ipynb)
 - [column names](column_names.md)
 
-   
+Results of this data analysis    
+The funding requirement, or the funding goal, emerges as the most crucial criterion that determines the success or failure of a project. Specifically, projects with funding goals ranging from 0 to 800 tend to have a higher success rate compared to those with higher funding goals.
 
+Moreover,  certain project categories that exhibit higher success rates. Projects falling under categories such as Dance, Theatre, Comics, and Music demonstrate a higher likelihood of success on the Kickstarter platform.
+
+Additionally,  projects with a duration of 0 to 30 days tend to have a greater success rate. This highlights the importance of optimizing the campaign duration to maximize the chances of success.
+
+By considering these key success factors - optimal funding goals, strategic category selection, and appropriate campaign durations - new project creators can enhance their understanding of what contributes to a successful Kickstarter campaign. This knowledge can empower them to make informed decisions and increase their chances of achieving funding goals.
 
 
 ## Set up your Environment
