@@ -3,7 +3,7 @@
 This dataset was collected by a crowdfunding enthusiast.Analyzing and modeling success factors in Kickstarter campaigns is crucial for providing insights to new project creators on what is necessary for achieving successful funding. Furthermore, it can potentially aid in predicting campaign success before launch.
 
 
-## Assignment is
+## Assignment 
 
 1 . To analyse and model success factors of kickstarter campaigns at [dataset](https://www.kaggle.com/datasets/kemical/kickstarter-projects).
 
